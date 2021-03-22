@@ -1,6 +1,8 @@
 # ThreePointComicCollection
 A Dynamic Comic Book Collection Website created as a capstone project at Tech Elevator Cincinnati in 2020.
 
+![Front Page of Application](./frontend/src/assets/front-page-of-app.png)
+
 <br>
 
 ### Stack and Various Tech
